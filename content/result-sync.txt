@@ -1,0 +1,2 @@
+The result string is hello this is first.txt, hello this is second.txt 
+This is appened string
