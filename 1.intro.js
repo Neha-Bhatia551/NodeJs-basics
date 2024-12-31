@@ -16,7 +16,7 @@
 
 
  //to export the keyname 
- const name = "john"
+ const name = "johns"
 
  module.exports = {name}
  console.log(module)
